@@ -1,0 +1,8 @@
+E:\Sync\Projects\C#\Visual Studio\Web Applications\Nuova cartella\Heroku Example Apllication\Heroku Example Apllication\bin\Debug\netcoreapp2.0\Heroku Example Apllication.deps.json
+E:\Sync\Projects\C#\Visual Studio\Web Applications\Nuova cartella\Heroku Example Apllication\Heroku Example Apllication\bin\Debug\netcoreapp2.0\Heroku Example Apllication.runtimeconfig.json
+E:\Sync\Projects\C#\Visual Studio\Web Applications\Nuova cartella\Heroku Example Apllication\Heroku Example Apllication\bin\Debug\netcoreapp2.0\Heroku Example Apllication.runtimeconfig.dev.json
+E:\Sync\Projects\C#\Visual Studio\Web Applications\Nuova cartella\Heroku Example Apllication\Heroku Example Apllication\bin\Debug\netcoreapp2.0\Heroku Example Apllication.dll
+E:\Sync\Projects\C#\Visual Studio\Web Applications\Nuova cartella\Heroku Example Apllication\Heroku Example Apllication\obj\Debug\netcoreapp2.0\Heroku Example Apllication.csprojAssemblyReference.cache
+E:\Sync\Projects\C#\Visual Studio\Web Applications\Nuova cartella\Heroku Example Apllication\Heroku Example Apllication\obj\Debug\netcoreapp2.0\Heroku Example Apllication.csproj.CoreCompileInputs.cache
+E:\Sync\Projects\C#\Visual Studio\Web Applications\Nuova cartella\Heroku Example Apllication\Heroku Example Apllication\obj\Debug\netcoreapp2.0\Heroku Example Apllication.AssemblyInfoInputs.cache
+E:\Sync\Projects\C#\Visual Studio\Web Applications\Nuova cartella\Heroku Example Apllication\Heroku Example Apllication\obj\Debug\netcoreapp2.0\Heroku Example Apllication.AssemblyInfo.cs
